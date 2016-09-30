@@ -5,8 +5,9 @@
         "noImplicitAny": false,
         "sourceMap": true,
         "moduleResolution": "node",
-        "experimentalDecorators":  true,
+        "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
-        "removeComments": true
+        "removeComments": true,
+        "suppressImplicitAnyIndexErrors": true
     }
 }
